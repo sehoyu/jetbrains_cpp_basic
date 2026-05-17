@@ -1,0 +1,41 @@
+type: edu
+custom_name: Template Basics
+files:
+  - name: src/task.cpp
+    visible: true
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: include/DataPair.hpp
+    visible: true
+    placeholders:
+      - offset: 63
+        length: 470
+        placeholder_text: Implement DataPair template class here
+        initial_state:
+          length: 38
+          offset: 63
+        initialized_from_dependency: false
+        encrypted_possible_answer: dLYYvG7Wu1kvI1u4Fd3vHcmnV36NFVVgg6aFvpj2x3EKp1KT3sYlI59+HiJrm12WAeWCOhFV5txKhF/FMY5O62UQDcjERmIeAEx6PRmPLrkX0ImZNTlVbhCwDJUTZQFMJPfEIj2xYDFQ8VmmpBOf8kqhVTxd36a2/tGhbr9Pbby7McMzZ8YvzTow7kUa4/uoNkhZAS/yOfsELDK/57QJxFhNJZ84Y2CJCrTJks5X5ATFn4UimZJ79fxVT6PW8N8qz44MuqvUyj6fc3B7KZsukHd6/Z4SU+AbsN67ipH0XhkOoU36LliOb7+9NKXyRxgIueCneD5ivg3HQZjhuLOvYf1Cj1naL6dML436EJu5JQVqi/dwNBym75e1Tss8aRzFOeVpSQ2Ym0t7HbelBGHAtJU+qgGelEIlLJm9+N+mW1ruSV4VkYUUgDbwW2l7JZPWBrxgklKcY7ptzlEq3mY0zsx6hOj6z4fxm4juwQL1LND+TS4hXLxgp60aSmJUva5S039YxBZagZxtzfZupkwSOtAfd7i+0f7yo07GE5cUvHlwEq89MQagistsxOCdOE9fpJPidou7nUnk9mLr9M5lD/MlhTzGFLM4j/69LU5XQQQ=
+        selected: true
+        status: Solved
+      - offset: 535
+        length: 142
+        placeholder_text: Implement makePair template function here
+        initial_state:
+          length: 41
+          offset: 103
+        initialized_from_dependency: false
+        encrypted_possible_answer: dLYYvG7Wu1kvI1u4Fd3vHcmnV36NFVVgg6aFvpj2x3EyMdlJaf0IDA3T5KaTy/yFmIQA8j0y2D0xaabIM5Nd59dO4hwD38gryG9koBiKY+Vuyr6HzB52W80HJO/oT5S0QEabh3IImf/N3uxdh2PGAAoyBBrn2ydegnkWr4VVExOGIY96tvUVmL1Df8LErs2a
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 14 May 2026 14:56:24 UTC"
+record: -1

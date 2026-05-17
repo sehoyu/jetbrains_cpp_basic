@@ -1,0 +1,35 @@
+type: edu
+custom_name: Input/Output Streams
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 105
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 105
+        initialized_from_dependency: false
+        encrypted_possible_answer: xkpEAFgreQwBFF0u98WRxwsar10EiBQw4uEAxo+e1mmFpnJ2oWd0HqvEUW6jGtvLs6n38B5yuVNMTDfqM6iJxpPkSQbDSgYAHEsfIKrz579cyrMBET32tDz7OvkTyoQqXwoDlDCPHRSPdIlOvft+2W/jbQLXw3BiyIBkFdc8/kDURoXbRnM3Re7Ij+kcD9Ub7PGUAXCi/Kx/A22F+K8hgoMHKHebEWVS3gedUYvQUCp+IsjwtNjFU6sL2EB4lL/oci6T5pkYxKXdP2yOH2yNaVUZ0Wj5VHTt9827HNPRsGGs2lhNDBHJAv9v4jALo/2i9FMnrkc+bcw4diuJv2R6mSqWloFGyo2IyR9T3IWLxdYbjkaipI7K6evZAzgZOPOJQoZ61k5aoERB0/GshD15EfiY9JS0/vS0inCkFBc1R02omz9wC5N6Z34sW9sdSPhLIGD9MWkD7JH/x6CpfdAy0w0F4TkUNTsfSUG5513a6hg572901rY89IfHAJbBkn/FnkyuB2BkmqV7dgs8IpLMEbwkD2VTHPf3G4KPaFLYd7Q7HlXB45Pe2ROlqDXLI5Tfg5HVOeJdw4c8sG9ziqNVGLfI86yXladFH4sxX23DDlCS0xv8RWlU1/4qlLhJcgpNptmZdaGwA8TAcjS1G0YcHwxCJD0+M9nJYEM/WEY9jsiOgTvAkz2IwiQps8uwXotoF6rkYRBkXGAsyEFT16MzfVeLoFi0jEOkyc+2Eg2ZSz35EfILf63IekZIcqjgup+K4QdtYiaSn2Ouw5WqXm9WbbTlMPeLTh0KyjwM8ZIGkyjZrKnjhvdHtPxFTbybfhYXn2znOZh5lUZfOm0UaEvLRnoWnjD7umhiqD+aGea0eWD1ymF+4fFPYFHjtEznigyj
+        selected: false
+        status: Unchecked
+      - offset: 145
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 145
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7ksrjnfHc4d5Tsc73wsFcugcXbtBhYDvR2p35kT80MeiOII6EfakDuRpLe4JJImbyiMqBOsF8ZUC1tSWK1ynZ71A3Gond8+djsQXNha+ifNvTujflZJ6YB+FHVqtU47FOPDZlfXY76IV0zxwPepnxi+koZx8BoL126hw8DXfJbZ/T+db+hW8AfqcLeM4ADUlTHkVwJZwVw6s+hRTPAO3TvAsOfJE3dWQvXz92G1/JnCUP+HliclDX5HssCJwen5eHaH+JU+LIGbPLxb/5+SMSoLo5ynhu+cbrPX+j0TcM8k0wK1O92Dnyq1z7HTxwtL/OtO07E0vSN+PuIPKEZVJSIheuYNW9jYxQ+a0TvHtq4xGz7vq8+mxY4z8/nH3CLzwe0QEAt8hhd9Xli5tJDp7qNNrxv4y8HCpgxY9smpcSHN11Hlbecl5KPVMmd2/LOmi93rwb7XUXHBQkxKz/xlRbFvN5Cf5fd0hvZPWLQaBCF86Q7ik+IfXudM26w2z5iWv4wrwN2hqCLa7raI7Pu8m6Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

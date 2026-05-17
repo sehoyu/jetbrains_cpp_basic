@@ -1,0 +1,35 @@
+type: edu
+custom_name: Sequential Containers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 123
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 123
+        initialized_from_dependency: false
+        encrypted_possible_answer: HS/KySuq+OefRB2S0w64Ut68J9UbMZASYdiVdVak1iXjiuBAOhGJV+mq0LSoWZtw8oTf1Yrg2uhK9UUgsF+1EZDjRhndrdN9Wdj2Toa30MF6OWtVKiBFXEHOtPBSg1IAPXudL+cwuFFKNu4JOFjn6b0ezoeVZgKSKgTXXli1WCF/jMU06cVFmFS1y3mRNkPKrIXdYK1Y3Uq/oZKpFktrqaqLhz1g0XKxf773MxUpoViNJar1lQGN3tH5BGmXHKit/Jotg+Zq6vWdrpAvVrhHci9DgVuQONIHV/8q3oJ4g5wgqr03mnvDKI9jRyvzqZllK1idEd8DWD3DLfvnWNDfrvMemyXN0HQaOS2FPXwalR6d6IKOsp83zxzYKKI3hyvW+ZT5eLWDbCrPw9OVbHneLg==
+        selected: false
+        status: Unchecked
+      - offset: 208
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 208
+        initialized_from_dependency: false
+        encrypted_possible_answer: WphAKFcdMLoJZ5+MvxagmhewqZc0fnAAdlkU9XKZAZFDOOe73dcnMQg7gNUlS2bhP3rfM+K1aJ98UDXwEMcQHwXhaRbQXkJLDScpG0fqKqedU157mzweEfV6yOKw2DndEgOcSfpbsiHVUpfOYt4DGxrxWg9X+gBR8ayPWuFjcKWetX0mVoXMHoumjP1/1yWYR0Hyho0wO2DiuWkf867SJGaC+9Ga7H1rdmFeyE+otOpAyAMIjQ6oA0kIm1w6dSO0ZfEJTRsKtzAJONZBgz/FxCLj36rSz3yHQWZPQNay4SIOFIvGmajw0TOGJHD4Bsxf
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

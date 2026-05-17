@@ -1,0 +1,31 @@
+type: edu
+custom_name: Template Specialization
+files:
+  - name: src/task.cpp
+    visible: true
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: include/DataPair.hpp
+    visible: true
+    placeholders:
+      - offset: 1225
+        length: 0
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 559
+        initialized_from_dependency: false
+        encrypted_possible_answer: D1AYQ0KNW3NaDt91FFkHrnjQHx8KwcwVKDtePsFepp1VUqdtkVFZ006xwduxOAVRXb3823x/WxedmPpUllhnyzTQ9KPEAkwEfx5kB7LXBg3Hz0UbYu98Il+nUkDj1Pu+/OMOWJgy8o00fZm/LKqr1n4EMG94pfyCn3tBemsI7RIe5xVvYlXKZQqntFoiwceR24YggOxbybvZwwyID9KSBbYR5K32qpKIx/OIBtb0RrFQK8x4HDfZf9nwHHmxT9Ijt98UC7x4f/UBRrAxvRuV9ZFzib3MCKjCQANyu6/Co0a9nMu3iM5gUBAvucX73K4tNCX/qaOnrcL1SI0kAsawL6HsQFkUsEzvTTAz9A5KVgVjWOl5Oa2PX4w8A/Y8znkuxCupkk76sLBuqxopGNKAyQIK8nt5pjPkgYFU451p/h5WSaS1MIHKViJhioHIsAazvdkjlmuahi57jxfJ0o3OmhPju899+X6vWXtcOwvTGInvJ9ZXjkjf2TvV/S8xINsT6JuXavmI9vfAEmfuNnu6AYpz9MwKKyzsuD7V90gXmZm8R2Rvk+pI1BKlA585ySgnhT/i+vm8G3hlqY7L16RPEVp9WcnVMUelSN6S2OOkbG9wCHMDYelzMtqFB3ZO7Og8DiKCk5L+Guxpfo+1VxuVgjZcRPNFe1V098fx4smHBpeq/udXKDHiXHJjdHm25efUQP47s4Tu9YaE6V3o0jygPHwYQRegxi6kAH+O/uImmj1jAai6/DG8+eZz71Aet0WCtppFnbUDMYyN6JeTT3oXf+P6ZjvryranaVF063t0ssgGb2nHlzrtViti2qR1nQfovotwbwflpxg7PENyBOpzpuVeQb5KmAxtlb5+/jFgWco=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 15 May 2026 01:56:00 UTC"
+record: -1

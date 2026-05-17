@@ -1,0 +1,35 @@
+type: edu
+custom_name: Efficient std::string Usage
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 130
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 130
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5EwFMJdK9bKcC6bMCyTy/joiGlKwaDTni5rIKU/xdSCYRSXtthwKR1bToBLSvh6qjkX3h97re94F6IMz1YbFYNQCcINdUxckEvDd44w+X444X//Juz89qXarbggOhX2/IfWfRkUp+9v0Lq/etShXKpvO1kKnOUDuJ1vdXgMP6ng8gx7dooFQbYuO9v5sW6+d
+        selected: false
+        status: Unchecked
+      - offset: 191
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 191
+        initialized_from_dependency: false
+        encrypted_possible_answer: YPLHmSnRgblC4Uj7dEpkw77FR1SiUhZ9l1SiG1FxTL/zEm4ucHw+lin7zeNUeGzuKUaJGissjSzdWS7Hcmh1bNN7J7Qys7bJFsik64+59UR7PK/fEPTHIv/XyY+tDwLYfVyZCXR0cOW4Wf2vIaeq/ysL6ax41Z2BlrCfsH0t8XCeZXk52Dm30ar555vRj7KQ/ZRS3jit45U/qkL1OnMfUcoIMny7uIHsBjK+1dwsvBY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

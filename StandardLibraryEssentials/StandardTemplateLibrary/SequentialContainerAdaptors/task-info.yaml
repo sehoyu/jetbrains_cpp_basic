@@ -1,0 +1,68 @@
+type: edu
+custom_name: Sequential Container Adaptors
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 125
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 125
+        initialized_from_dependency: false
+        encrypted_possible_answer: M2eJP9+VaBI79Df+GOCKVeDaPlgH7oK+o22RHbRAb/EeuLo+MqwApwAQ4NRqMS9O
+        selected: false
+        status: Unchecked
+      - offset: 202
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 202
+        initialized_from_dependency: false
+        encrypted_possible_answer: M2eJP9+VaBI79Df+GOCKVTKfPbAyVq63kXiOTUOc4KVWOmws4WxfEfRQ9D78N9A2
+        selected: false
+        status: Unchecked
+      - offset: 246
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 246
+        initialized_from_dependency: false
+        encrypted_possible_answer: BQrIxi7AV3Y4ApNaBzUKz8QrTjXsuTT9dMjXQGGtM1yT3DfZXFEudaE8rIzI0LVgZWtafeLL+3GqIIw5WnC8LbgtfuR8IZAvTaIH+Jl0P2yUomaARKFqKLC/XITRg4Uo/pUrtzMYM5B/oHcrfT/ZydSU9U8Dn7Xfn7swMN2yZCk=
+        selected: false
+        status: Unchecked
+      - offset: 290
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 290
+        initialized_from_dependency: false
+        encrypted_possible_answer: FqDBsr/H2S1aiAQyDotvRjKDUuW4q1DmQY/o57kva0Jy0S4QLTGoNVHlNPiLAwq4AqLUw6NZzCwfYKGYkNWCzoP4EdGVxfYQam0ZGsMLSAZ2ED2kcB5HbymWZbgsrHAy61M7QqJYp8WlT3xbFujV+F2zpM6229MP5G7A9IqK4vE=
+        selected: false
+        status: Unchecked
+      - offset: 350
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 350
+        initialized_from_dependency: false
+        encrypted_possible_answer: uvWkXObXmorzzvE6EWwjLA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: include/textEditor.h
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,16 @@
+type: ide
+custom_name: Memory Errors
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: src/main
+    visible: true
+    learner_created: true
+status: Solved
+feedback:
+  time: "Thu, 07 May 2026 07:05:39 UTC"
+record: -1

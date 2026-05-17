@@ -1,0 +1,51 @@
+type: edu
+custom_name: Shared Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 147
+        length: 66
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: ooUM5D0Z6IyujndeEtxIVRj1dFk9jxEq9e14FNfvOU+61tqsDW3mOEQ44JMmC28InMW7AyJ681OZLT/7XStHHA==
+        selected: true
+        status: Solved
+      - offset: 268
+        length: 17
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 217
+        initialized_from_dependency: false
+        encrypted_possible_answer: NED6rA6Zf77nbEIZzxTGcxfGeMV/UdXu5LJsCgd3Z7Q=
+        selected: true
+        status: Solved
+      - offset: 318
+        length: 13
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: Yy49nfjfAw5sOo+XYNxRSA==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: include/chat.hpp
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 14 May 2026 12:55:46 UTC"
+record: -1

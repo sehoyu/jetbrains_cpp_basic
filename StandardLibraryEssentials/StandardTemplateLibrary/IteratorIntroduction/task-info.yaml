@@ -1,0 +1,25 @@
+type: edu
+custom_name: Iterator Introduction
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 131
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 131
+        initialized_from_dependency: false
+        encrypted_possible_answer: I69QjK0Q3Iv4DZyTdSzTlS3/vqBg9OCoY/9f3QGpbWbq1OXbcBtDMBol0XFnaEQ38Pi8Cv1WaT66T69Wdl5vlEnFfPy5L+w68Qqp6eJXVYRd6LeD8DpuDXgiASYWxeeJj8QJ8qJzSVg+yMQgwAVDADDiGwHc4DCZSipTgHuWiXq6BwdJWE8onLOxPhweOBVq28l8Jbl8MCK3foBLjzQyTbsVTW8zyep+XY/Hu6i5BetERW3f1I3gbNa+o+bj+ow4sUlgce2kyjENABoc2MxtCsAdtwtd5efw2vkSjjpVnP+MMiOG49sZe+ad2073qBqXDZDWQ56SIB+8AQO6ebEX2/pOE/IQDN4XFmKgPRi475Gl3SS7VnhszTqs9cUmeRW4
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

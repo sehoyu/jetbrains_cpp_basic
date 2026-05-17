@@ -1,0 +1,25 @@
+type: edu
+custom_name: set Containers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 139
+        length: 24
+        placeholder_text: Your implementation here
+        initial_state:
+          length: 24
+          offset: 139
+        initialized_from_dependency: false
+        encrypted_possible_answer: Xunl3r3875q2KdHQMgjeGz9vTgkbkiEpvef6Z5loPMte4XlbrABqDuCGCEitfpJEB6F9v/4bvx/hpYYIwpn+8GeJmjJxqjXLr1paQhCObQQLV6jl7btgHssWXCYVv/VFQysyT9FNOvLEr980iIQ/EtQ7WyvUmJCVfnpDnP+hfduvM1QPH+OEQy2iF0EkEomw8dkyST6yt+lKGeZacbbvKnDuwdAXvEQcPb01khsihP49KUk8LOPzyZXafyCMNUMedDcwodFuIBC7W12vkUTsn1VoiEa+Z9B4Yld2ILHtQhjru0ohJLjAJKV5nv8OSwqiF2mKmI0qf7w47s2iyIhKWOm8Aqo3JJLK+Z/ta87RKdiuRGTWrd1PSyBKxhja+OTaRAVsd3+ZPIM3Xh1KczGm2gruiqU3NrmJdRy0S69OPiCyKfLw+tVWLxJesaH6skmfUHZw5Ew87D/nxhNhYb6OjA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

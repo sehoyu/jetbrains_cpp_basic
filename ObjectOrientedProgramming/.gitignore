@@ -1,0 +1,13 @@
+# CLion/JetBrains 관련
+.idea/
+cmake-build-*/
+
+# 컴파일 결과물
+*.o
+*.obj
+*.exe
+*.out
+
+# OS 전용 파일
+.DS_Store (Mac 전용)
+Thumbs.db (Windows 전용)

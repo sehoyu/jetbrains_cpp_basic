@@ -1,0 +1,2 @@
+/usr/bin/ar qc /Users/yu/CLionProjects/C++_Basics/cmake-build-asan/lib/libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+/usr/bin/ranlib /Users/yu/CLionProjects/C++_Basics/cmake-build-asan/lib/libgmock_main.a

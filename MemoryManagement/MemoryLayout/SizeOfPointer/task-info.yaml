@@ -1,0 +1,15 @@
+type: theory
+custom_name: SizeOf Pointers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: src/main
+    visible: true
+    learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true

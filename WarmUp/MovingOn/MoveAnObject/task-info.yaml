@@ -1,0 +1,33 @@
+type: edu
+custom_name: Move an Object
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 113
+        length: 8
+        placeholder_text: position
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Solved
+        student_answer: position
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Move+an+Object
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 05 May 2026 01:47:17 UTC"
+record: 2

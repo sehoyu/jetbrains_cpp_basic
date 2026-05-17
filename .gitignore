@@ -1,0 +1,25 @@
+### JetBrains IDE (CLion) 설정 ###
+.idea/
+cmake-build-*/
+Visual_Studio_Project/
+
+### 빌드 결과물 및 임시 파일 ###
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+
+### OS 전용 쓰레기 파일 ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### 외부 라이브러리 및 임시 라이브러리 ###
+lib/
+bin/

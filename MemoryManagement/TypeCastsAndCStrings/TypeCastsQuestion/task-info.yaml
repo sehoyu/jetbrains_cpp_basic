@@ -1,0 +1,36 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: (1)
+    is_correct: true
+  - text: (2)
+    is_correct: true
+  - text: (3)
+    is_correct: true
+  - text: (4)
+    is_correct: false
+  - text: (5)
+    is_correct: true
+  - text: (6)
+    is_correct: true
+quiz_header: "Select options from the list:"
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 09 May 2026 02:41:09 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+  - 4
+  - 5
+custom_name: Choose Valid Type Casts
+local_check: true

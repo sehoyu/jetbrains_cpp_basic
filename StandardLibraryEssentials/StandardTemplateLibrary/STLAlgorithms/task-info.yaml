@@ -1,0 +1,25 @@
+type: edu
+custom_name: STL Algorithms
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 155
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 155
+        initialized_from_dependency: false
+        encrypted_possible_answer: /iEjLmIHi1Asqy2h9zeTf/4l9GJ9D4E5gjm59IjnI/v5hbFjnVhrAdpqsHGXWZErHtEfii9g9nwMwdMF+k9cZtkXzOGlAB/JGJaCmz74pKfjED3u+ETJ5ZA++Sq9IzyA/AGmjZbr2LEkZAijXf960dbRMP6y/OoR6pP6ATtgP+Gsm2AZrzSpp1taRcTGun3ydA0gv9NtiFd6PTEFieK06pZSzm1Vv1aRzHlYgGy+gTCehjMY6K2f7mSjRHdL39QnzXk/r1DVZhr71jG1klO169/EntCfSiUtKnMNAQl7bpE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,49 @@
+type: edu
+custom_name: Unordered Containers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: NG+WhDhGlmQBRlIjW30LxaN43xfinK5KDFWgJr0rmXHOfRVXaEfZFCYF46MdM+ZNaeGeI5GbfyYAXfEZLzp/K8gbRcXNnROuBRw8gBOoaMu1CxYoCW6TH63VNFxO+Xt6UGT0B3TFtgFOETMx8baZJg2xZ7eUnZuAibOL3k+L/whHv8hMk4hWcpnZbRGmU68e/FQMr/HZO6MH07Hq5Ck8RtgkwVPppmkJIoZhDqJgdewYSe1jXXuSFj/BmKHAidy37BYeTdqNNwVHnuVqvOgmyQ==
+        selected: false
+        status: Unchecked
+      - offset: 242
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 242
+        initialized_from_dependency: false
+        encrypted_possible_answer: NG+WhDhGlmQBRlIjW30LxaN43xfinK5KDFWgJr0rmXE2jgTg1hQMD1mlvH7eydbhtstXicaT8jTYYat/+lnsKGTy5wJMXfKTKW3ww2TGf+CTpxb45q8dE4w6URyKbcNrGftwFJEx4MKkXUdlU+GeTdqGO9AbYiuq+AVxP10rUN8VJrfquU9Bg7+QIW0ZxYreqU4VymBXYzi/itBlJDU6OuK3bh6iCYq8Bam0tdwiY4D2MTmToKeM5jE92fJbhm/eiCDGF9oCmZ+QOjxX3H1fp6DuYtupJQe6/US4cA+A3Sd0DUFr4nMlGTk+RtnRDI3qeOXuJC+OdkOmHM0kpcLRwEad9EAbE+HLUw8BOvIgseiYLUwXnmcdBKmOglkmX0IlNSAhED9eTAcJEaj9kxNjYduJkMQ1DiimJJbu6n2bUjhve3kIAUXtM2qFZ8Ke5pbrhHoRETnnZJtS7+AJpp8ZVA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: include/Cache.h
+    visible: true
+    placeholders:
+      - offset: 342
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 342
+        initialized_from_dependency: false
+        encrypted_possible_answer: y6cduNL2/kjkkgLcW1h743yZe5k4hZ0WD/Bd2jKDiGFt1o+xPcl5Kt8VCqgKZ7nQxy0eWuLrh2mcU+Tm+YmToATkAFspok6g4k5PrQsRFoAkGNPkpQi9vgoCijF7u9ngwRJH7spGFz82aiiJa9fPBe/jkbo9vb1cf4rZVJJSwZNElE1O0LGzUoBMXMY/kPhcdkLBxWgsvP7G3ZMeo7ee7Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

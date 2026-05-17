@@ -1,0 +1,25 @@
+type: edu
+custom_name: map Containers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 135
+        length: 24
+        placeholder_text: Your implementation here
+        initial_state:
+          length: 24
+          offset: 135
+        initialized_from_dependency: false
+        encrypted_possible_answer: tlAw+JyXnBMMjZ/IaoOd0jbrGORvJgg0CIhsNBX8my+7WAIF2ejO5zFzKKCMklLAsGhEzQTVt1mIxNqRdquQorkDJKzAaP13NOxvmV59f4+tlyrc9bJvHHf1dsJfCiVMy6d4UumMtr4v29T/lTOLysG/onaHti8My7gtCdVm33N4Qs8K3Iug1cld/imGoWYMn0W8Q9PHUiiItuMf2W7uX5VtwNC99rLncjB2b/FL4WvSsc7SJ9t1aU6DE3tMFK4aB7kS44yv41InTpdzFOYjmlHVk7GpHXovq9tx9ruBRMY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

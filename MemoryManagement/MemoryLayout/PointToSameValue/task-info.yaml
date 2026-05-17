@@ -1,0 +1,28 @@
+type: edu
+custom_name: Point to Same Variables?
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 193
+        length: 116
+        placeholder_text: return false;
+        initial_state:
+          length: 13
+          offset: 44
+        initialized_from_dependency: false
+        encrypted_possible_answer: zjv6rI4I7Ty5sz36B+OROqFeLZQMYn3KRa+cjW1jNf7O5gUYSkf8m+BEYJeufy9b5QdGRzHWqhGRtNkNS5SkXfRtwk12KIz1J74LCxaYEkI=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 06 May 2026 00:12:30 UTC"
+record: -1

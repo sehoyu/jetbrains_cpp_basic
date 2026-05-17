@@ -1,0 +1,48 @@
+type: edu
+custom_name: std::vector
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 135
+        length: 14
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 91
+        initialized_from_dependency: false
+        encrypted_possible_answer: HsZh5d5IGI8d743vAJ+DVrCwmlz8BlQS2862WQajDpr2EnO7ZNLdzxzTLLunSZIIGVkZo8Et2vux0SePkKnqX4M4KWqn4jPsyUG6hXa5CRk=
+        selected: true
+        status: Solved
+      - offset: 250
+        length: 114
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 185
+        initialized_from_dependency: false
+        encrypted_possible_answer: dQIDfzqrZ5o669SGgO7rjvDyWorZSghyV8SEwDQN4ZEFAXDdZymjRgeQvpwMG97m
+        selected: true
+        status: Solved
+      - offset: 419
+        length: 243
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: SDFqvlsNa4KIFl8M7d9RfqmP+mkSpD9/4/jwB59uWDTcgNSQwPvLUWpaWxFlclEYmCoFZ8vUVz/Hh5h/IoF7JrdeEErELmacOf3VkmRZ6MG1RQswoDUuulaS09msfJEj6FLqVd1ReFhqFd80ZttRsGNRZMug2WXu9Ah198kSUrnYX79Vb0HkXDU4lKt7juquXgnYYFvykSi3pH8Mi+NCLkPREkcro8LpgWUVga4x+y3k6NZQZ0O4dhc9QVxZznGFuZa4wXhEC60I3r0JDYoCGMdB8oMo2iQeb/o/4YmB95Y=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 17 May 2026 02:33:31 UTC"
+record: -1
