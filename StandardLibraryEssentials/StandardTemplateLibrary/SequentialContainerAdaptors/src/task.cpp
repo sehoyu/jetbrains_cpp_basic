@@ -2,23 +2,39 @@
 #include "../include/textEditor.h"
 
 void TextEditor::insert(const std::string& w, std::size_t pos) {
-    /* TODO */
+    undoStack.push(text);
+    text.insert(pos, w);
+    // while (!redoStack.empty()) {
+    //     redoStack.pop();
+    // }
 }
 
 void TextEditor::erase(std::size_t pos, std::size_t len) {
-    /* TODO */
+    undoStack.push(text);
+    text.erase(pos, len);
+    // while (!redoStack.empty()) {
+    //     redoStack.pop();
+    // }
 }
 
 void TextEditor::undo() {
-    /* TODO */
+    if (undoStack.empty()) return;;
+
+    redoStack.push(text);
+    text = undoStack.top();
+    undoStack.pop();
+
 }
 
 void TextEditor::redo() {
-    /* TODO */
+    if (redoStack.empty()) return;
+    undoStack.push(text);
+    text = redoStack.top();
+    redoStack.pop();
 }
 
 std::string TextEditor::getText() const {
-    /* TODO */
+    return text;
 }
 
 int main() {

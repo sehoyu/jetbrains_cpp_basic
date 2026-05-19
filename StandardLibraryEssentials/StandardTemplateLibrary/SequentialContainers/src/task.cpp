@@ -3,11 +3,35 @@
 #include <deque>
 
 std::list<int> sumAdjacentElements(const std::list<int>& nums) {
-    /* TODO */
+    if (nums.empty()) return nums;
+
+    std::list<int> result;
+    auto it = nums.begin();
+    while (it != nums.end()) {
+        int temp = *it++;
+        if (it == nums.end()) {
+            break;
+        }
+        result.push_back(temp + *it++);
+    }
+
+    return result;
 }
 
 std::deque<int> sumAdjacentElements(const std::deque<int>& nums) {
-    /* TODO */
+    if (nums.empty()) return nums;
+
+    std::deque<int> result;
+    auto it = nums.begin();
+    while (it != nums.end()) {
+        int temp = *it++;
+        if (it == nums.end()) {
+            break;
+        }
+        result.push_back(temp + *it++);
+    }
+
+    return result;
 }
 
 int main() {

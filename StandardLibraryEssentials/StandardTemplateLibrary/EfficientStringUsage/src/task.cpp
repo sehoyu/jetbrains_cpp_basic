@@ -4,11 +4,31 @@
 #include <iostream>
 
 std::string lowerCase(std::string_view str) {
-    /* TODO */
+    std::string result;
+    for (auto c : str) {
+        if (std::isalnum(c)) {
+            result += std::tolower(c);
+        }
+    }
+
+    return result;
 }
 
 bool isPalindrome(std::string_view word) {
-    /* TODO */
+    std::string result = lowerCase(word);
+
+    // if (result[0] != result[result.size() - 1]) return false;
+    if (result.empty()) return true;
+
+    size_t left = 0;
+    size_t right = result.size() - 1;
+    while (left < right) {
+        if (result[left] != result[right]) return false;
+        left++;
+        right--;
+    }
+
+    return true;
 }
 
 int main() {

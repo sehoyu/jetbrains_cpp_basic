@@ -10,26 +10,29 @@ files:
   - name: src/task.cpp
     visible: true
     placeholders:
-      - offset: 130
-        length: 10
+      - offset: 261
+        length: 19
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 130
         initialized_from_dependency: false
         encrypted_possible_answer: 5EwFMJdK9bKcC6bMCyTy/joiGlKwaDTni5rIKU/xdSCYRSXtthwKR1bToBLSvh6qjkX3h97re94F6IMz1YbFYNQCcINdUxckEvDd44w+X444X//Juz89qXarbggOhX2/IfWfRkUp+9v0Lq/etShXKpvO1kKnOUDuJ1vdXgMP6ng8gx7dooFQbYuO9v5sW6+d
-        selected: false
-        status: Unchecked
-      - offset: 191
-        length: 10
+        selected: true
+        status: Solved
+      - offset: 300
+        length: 354
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 191
         initialized_from_dependency: false
         encrypted_possible_answer: YPLHmSnRgblC4Uj7dEpkw77FR1SiUhZ9l1SiG1FxTL/zEm4ucHw+lin7zeNUeGzuKUaJGissjSzdWS7Hcmh1bNN7J7Qys7bJFsik64+59UR7PK/fEPTHIv/XyY+tDwLYfVyZCXR0cOW4Wf2vIaeq/ysL6ax41Z2BlrCfsH0t8XCeZXk52Dm30ar555vRj7KQ/ZRS3jit45U/qkL1OnMfUcoIMny7uIHsBjK+1dwsvBY=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 19 May 2026 03:01:34 UTC"
 record: -1

@@ -3,7 +3,20 @@
 #include <string>
 
 std::vector<int>::iterator findMaximum(std::vector<int>& container) {
-    /* TODO */
+    if (container.empty()) {
+        return container.end();
+    }
+
+    auto max = container.begin();
+    auto current = container.begin();
+    while (current != container.end()) {
+        if (*current > *max) {
+            max = current;
+        }
+        ++current;
+    }
+
+    return max;
 }
 
 int main() {
